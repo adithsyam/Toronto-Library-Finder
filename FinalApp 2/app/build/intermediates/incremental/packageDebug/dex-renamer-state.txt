@@ -1,0 +1,7 @@
+#Fri Dec 15 21:26:32 EST 2017
+base.0=C\:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1a2f6d034c77a14de44ec179d6be0eee0a151be
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_832f8503ea1960d8e8456ce1cd964d5d1e68607a\\classes.dex
+base.1=C\:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_832f8503ea1960d8e8456ce1cd964d5d1e68607a
+file.0=C\:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1a2f6d034c77a14de44ec179d6be0eee0a151be\\classes.dex

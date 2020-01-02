@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranoy\\Downloads\\FinalApp-2\\FinalApp 2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Pranoy\\.android\\build-cache\\d9bea4474fad6ff6b687f1f359957c4948bd449a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
